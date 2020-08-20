@@ -7,3 +7,4 @@ test of sync
 
 \n
 kamal with out pull
+rafah update
