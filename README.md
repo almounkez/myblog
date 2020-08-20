@@ -7,7 +7,6 @@ test of sync
 
 \n
 kamal with out pull
-rafah update
-
-
+rafah update.
+my commit to branch.
 update on branch.
