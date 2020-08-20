@@ -3,7 +3,7 @@ my laravel blog
 test of sync
 
 
-
+using -u 
 
 \n
 kamal with out pull
